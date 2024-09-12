@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leivi521&label=Profile%20views&color=0e75b6&style=flat" alt="leivi521" /> </p>
-
+Highly motivated and results-oriented Software Developer with 3 years of experience in IT support and customer service. Skilled in front-end development utilizing React, Javascript, CSS, and HTML. Eager to leverage strong problem-solving and communication skills honed in customer service to build user-centric and efficient software solutions.
 - 🔭 I’m currently working on **Medical Senior Care Application**
 
 - 🌱 I’m currently learning **Full stack development with more focus on front-end development**
