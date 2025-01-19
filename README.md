@@ -1,6 +1,8 @@
-# Hi there! <img src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" alt="MasterHead" width="100%" />
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving hand" width="65px"> Hi there!
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" alt="MasterHead"/>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6790E5&center=true&vCenter=true&random=false&width=600&height=100&lines=Leivi+Dominguez+Bruno;Frontend+Developer;Game+Dev+Enthusiast" alt="Typing SVG" />
   
   <p align="center">
@@ -11,20 +13,22 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif" width="400" alt="coding" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" alt="coding" />
 </div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=leivi521&label=Profile%20views&color=6790E5&style=flat" alt="leivi521" />
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
 > *"Transforming ideas into elegant digital solutions"*
 
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> I'm a passionate Software Developer with 3 years of experience bridging the gap between IT support and creative development. My journey in tech has been driven by a simple philosophy: combine technical excellence with exceptional user experience.
+<img src="https://user-images.githubusercontent.com/74038190/216655810-e4f66b1b-7f0b-4f45-96de-61e330155933.gif" width="300" align="right">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What Drives Me
+I'm a passionate Software Developer with 3 years of experience bridging the gap between IT support and creative development. My journey in tech has been driven by a simple philosophy: combine technical excellence with exceptional user experience.
+
+### <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-4dc1-4357-8a79-24f39e715129.gif" width="30"> What Drives Me
 
 ```typescript
 const leivi = {
@@ -37,14 +41,14 @@ const leivi = {
 ```
 
 ### 🚀 Current Focus
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img src="https://user-images.githubusercontent.com/74038190/216655811-d7801160-3c9c-42c9-b721-7ee0342fbc93.gif" width="300" align="right">
 
 - 🏥 Building the **Medical Senior Care Application**
 - 📚 Mastering Full Stack Development
 - 🎯 Specializing in React and Modern JavaScript
 - 🎮 Exploring Game Development
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Let's Connect!
+## <img src="https://user-images.githubusercontent.com/74038190/216658103-52923258-d51c-4e11-9b9c-48e3441005b7.gif" width="30"> Let's Connect!
 
 <p align="left">
 <a href="https://linkedin.com/in/leivi dominguez bruno" target="blank">
@@ -54,17 +58,16 @@ const leivi = {
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
 <div align="center">
-  
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -76,7 +79,9 @@ const leivi = {
   ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 </div>
 
-## 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216656923-f5f7843d-69d8-4ddd-83bb-b31d6daba030.gif" width="30"> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leivi521&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="leivi521" />
@@ -87,22 +92,26 @@ const leivi = {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-## 🏆 GitHub Trophies
+## <img src="https://user-images.githubusercontent.com/74038190/216656934-0dd55b98-a77e-4d26-8865-9147906e0f99.gif" width="30"> GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=leivi521&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="100">
 </div>
 
 ![Snake animation](https://github.com/leivi521/leivi521/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/>
 </div>
