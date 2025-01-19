@@ -1,129 +1,108 @@
-<!-- Header Banner -->
+# Hi there! <img src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" alt="MasterHead" width="100%" />
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" width="100%" alt="Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6790E5&center=true&vCenter=true&random=false&width=600&height=100&lines=Leivi+Dominguez+Bruno;Frontend+Developer;Game+Dev+Enthusiast" alt="Typing SVG" />
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue?style=for-the-badge&logo=react" />
+    <img src="https://img.shields.io/badge/Location-California-gold?style=for-the-badge&logo=google-maps" />
+    <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-green?style=for-the-badge&logo=languages" />
+  </p>
 </div>
 
-<!-- Title Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=435&lines=Leivi+Dominguez+Bruno;Frontend+Developer;Creative+Technologist" alt="Typing SVG" />
+  <img src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif" width="400" alt="coding" />
 </div>
 
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leivi521&label=Visitors&color=0e75b6&style=flat" alt="Profile Views">
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=leivi521&label=Profile%20views&color=6790E5&style=flat" alt="leivi521" />
+</p>
 
-<!-- Animated Coding GIF -->
-<img align="right" width="400" src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif" alt="Coding Animation"/>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-<!-- About Me Section -->
-## 🌟 About Me 
+> *"Transforming ideas into elegant digital solutions"*
 
-> *"Where Technology Meets Creativity – Transforming Ideas into Digital Reality"*
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> I'm a passionate Software Developer with 3 years of experience bridging the gap between IT support and creative development. My journey in tech has been driven by a simple philosophy: combine technical excellence with exceptional user experience.
 
-```javascript
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What Drives Me
+
+```typescript
 const leivi = {
-    role: "Frontend Developer",
-    location: "California",
-    experience: "3+ years",
-    specialization: "React & JavaScript",
-    currentProject: "Medical Senior Care Application",
-    passions: ["UI/UX", "Game Development", "Healthcare Tech"],
-    learning: "Full Stack Development"
+    currentProject: "Medical Senior Care Application 🏥",
+    learningPath: "Full Stack Development (Frontend Focus) 📚",
+    expertise: ["React", "JavaScript", "Python"],
+    passions: ["Frontend Development", "UI/UX Design", "Game Development"],
+    funFact: "I turn coffee into code ☕"
 };
 ```
 
-<!-- Current Focus Section -->
-## 🎯 Current Focus
+### 🚀 Current Focus
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" />
-      <b>Current Project:</b>
-    </td>
-    <td>Leading frontend development for Medical Senior Care Application</td>
-  </tr>
-  <tr>
-    <td>
-      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" />
-      <b>Tech Stack:</b>
-    </td>
-    <td>React, JavaScript, Python, Flask</td>
-  </tr>
-  <tr>
-    <td>
-      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25" />
-      <b>Learning:</b>
-    </td>
-    <td>Advanced Frontend Architecture & Full Stack Development</td>
-  </tr>
-</table>
+- 🏥 Building the **Medical Senior Care Application**
+- 📚 Mastering Full Stack Development
+- 🎯 Specializing in React and Modern JavaScript
+- 🎮 Exploring Game Development
 
-<!-- Tech Stack Section -->
-## 💻 Technology Artistry
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Let's Connect!
 
-<div align="center">
-
-### Frontend Mastery
-[![My Frontend Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap)](https://github.com/leivi521)
-
-### Backend & Database
-[![My Backend Skills](https://skillicons.dev/icons?i=python,flask,nodejs,mysql)](https://github.com/leivi521)
-
-### Creative Tools
-<p align="center">
-  <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a>
+<p align="left">
+<a href="https://linkedin.com/in/leivi dominguez bruno" target="blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
 </p>
+
+## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<!-- Stats Section -->
-## 📊 Development Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leivi521&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=leivi521&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leivi521&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  
+  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 </div>
 
-<!-- Skills Progress Section -->
-## 🔥 Skill Progression
-
-```text
-React.js       ███████████████████░░   90%
-JavaScript     ███████████████████░░   90%
-HTML/CSS       ██████████████████░░░   85%
-Python         ████████████████░░░░░   75%
-Flask          ███████████████░░░░░░   70%
-UI/UX Design   ████████████████░░░░░   75%
-```
-
-<!-- Connect Section -->
-## 🤝 Let's Connect and Create
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://linkedin.com/in/leivi dominguez bruno" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leivi521&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="leivi521" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=leivi521&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="leivi521" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leivi521&theme=radical&hide_border=true&background=0D1117" alt="leivi521" />
 </div>
 
-<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<!-- Hidden Details -->
-<!--
-  * 3 years of dedicated experience in IT support and customer service
-  * Strong focus on creating user-centric solutions
-  * Passionate about game development and creative coding
-  * Always learning and exploring new technologies
--->
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=leivi521&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
+
+![Snake animation](https://github.com/leivi521/leivi521/blob/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/>
+</div>
