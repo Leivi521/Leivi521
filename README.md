@@ -1,107 +1,129 @@
-# Hi there! <img src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" alt="MasterHead" width="100%" />
-
+<!-- Header Banner -->
 <div align="center">
-  <h1>Leivi Dominguez Bruno</h1>
-  <h3>🎨 Frontend Artist | 💻 Code Craftsman | 🎮 Game Dev Enthusiast</h3>
+  <img src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" width="100%" alt="Banner"/>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif">
+<!-- Title Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=435&lines=Leivi+Dominguez+Bruno;Frontend+Developer;Creative+Technologist" alt="Typing SVG" />
+</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=leivi521&label=Profile%20views&color=0e75b6&style=flat" alt="leivi521" />
-</p>
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=leivi521&label=Visitors&color=0e75b6&style=flat" alt="Profile Views">
+</div>
 
-## 💫 About Me
+<!-- Animated Coding GIF -->
+<img align="right" width="400" src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif" alt="Coding Animation"/>
 
-> *"Crafting digital experiences that make a difference"*
+<!-- About Me Section -->
+## 🌟 About Me 
 
-I'm a passionate Software Developer with 3 years of experience bridging the gap between IT support and creative development. My journey in tech has been driven by a simple philosophy: combine technical excellence with exceptional user experience.
+> *"Where Technology Meets Creativity – Transforming Ideas into Digital Reality"*
 
-### 🚀 What Drives Me
+```javascript
+const leivi = {
+    role: "Frontend Developer",
+    location: "California",
+    experience: "3+ years",
+    specialization: "React & JavaScript",
+    currentProject: "Medical Senior Care Application",
+    passions: ["UI/UX", "Game Development", "Healthcare Tech"],
+    learning: "Full Stack Development"
+};
+```
 
-- Building intuitive and responsive front-end solutions using React and JavaScript
-- Transforming complex problems into elegant, user-friendly interfaces
-- Creating meaningful connections between technology and healthcare through my work on Medical Senior Care Applications
+<!-- Current Focus Section -->
+## 🎯 Current Focus
 
-### 🔍 Current Focus
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" />
+      <b>Current Project:</b>
+    </td>
+    <td>Leading frontend development for Medical Senior Care Application</td>
+  </tr>
+  <tr>
+    <td>
+      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" />
+      <b>Tech Stack:</b>
+    </td>
+    <td>React, JavaScript, Python, Flask</td>
+  </tr>
+  <tr>
+    <td>
+      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25" />
+      <b>Learning:</b>
+    </td>
+    <td>Advanced Frontend Architecture & Full Stack Development</td>
+  </tr>
+</table>
 
-- 🏥 **Current Project:** Medical Senior Care Application
-- 📚 **Learning Path:** Full Stack Development (with Front-End specialization)
-- 🎯 **Expertise:** React, JavaScript, Python
-- 🎮 **Hidden Talent:** Game Engine Development
-
-### 💡 Did You Know?
-I bring a unique blend of customer service expertise and technical skills, allowing me to create solutions that not only work flawlessly but truly resonate with end-users.
-
----
-
-## 🤝 Let's Connect!
-
-<p align="left">
-<a href="https://linkedin.com/in/leivi dominguez bruno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leivi dominguez bruno" height="30" width="40" /></a>
-</p>
-
-## 🛠️ Tech Arsenal
-
-<p align="left"> 
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-
-  <!-- Backend & Database -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-
-  <!-- Tools & Others -->
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
-  </a>
-</p>
-
-## 📊 GitHub Stats
+<!-- Tech Stack Section -->
+## 💻 Technology Artistry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leivi521&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="leivi521" />
+
+### Frontend Mastery
+[![My Frontend Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap)](https://github.com/leivi521)
+
+### Backend & Database
+[![My Backend Skills](https://skillicons.dev/icons?i=python,flask,nodejs,mysql)](https://github.com/leivi521)
+
+### Creative Tools
+<p align="center">
+  <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
+  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a>
+</p>
+</div>
+
+<!-- Stats Section -->
+## 📊 Development Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leivi521&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=leivi521&show_icons=true&locale=en&theme=tokyonight" alt="leivi521" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leivi521&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leivi521&theme=tokyonight" alt="leivi521" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leivi521&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
----
+<!-- Skills Progress Section -->
+## 🔥 Skill Progression
+
+```text
+React.js       ███████████████████░░   90%
+JavaScript     ███████████████████░░   90%
+HTML/CSS       ██████████████████░░░   85%
+Python         ████████████████░░░░░   75%
+Flask          ███████████████░░░░░░   70%
+UI/UX Design   ████████████████░░░░░   75%
+```
+
+<!-- Connect Section -->
+## 🤝 Let's Connect and Create
 
 <div align="center">
-  <i>Let's build something amazing together! 🚀</i>
+  <a href="https://linkedin.com/in/leivi dominguez bruno" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+<!-- Hidden Details -->
+<!--
+  * 3 years of dedicated experience in IT support and customer service
+  * Strong focus on creating user-centric solutions
+  * Passionate about game development and creative coding
+  * Always learning and exploring new technologies
+-->
