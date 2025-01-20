@@ -12,9 +12,7 @@
   </p>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" alt="coding" />
-</div>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=leivi521&label=Profile%20views&color=6790E5&style=flat" alt="leivi521" />
