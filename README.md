@@ -12,9 +12,7 @@
   </p>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" alt="coding" />
-</div>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=leivi521&label=Profile%20views&color=6790E5&style=flat" alt="leivi521" />
@@ -30,64 +28,13 @@ I'm a passionate Software Developer with 3 years of experience bridging the gap 
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-4dc1-4357-8a79-24f39e715129.gif" width="30"> What Drives Me
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-6e29-496c-9ffa-4e4b47b017fe.gif" width="100">
-        <br/>
-        <strong>Current Project</strong>
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="100">
-        <br/>
-        <strong>Tech Stack</strong>
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/235223618-ac6fe711-d5c4-4919-99b8-b865f0fe4766.gif" width="100">
-        <br/>
-        <strong>Goals</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ```typescript
 const leivi = {
-    identity: {
-        role: "Frontend Developer 💻",
-        location: "California 🌴",
-        focus: "Creating intuitive user experiences 🎨"
-    },
-    currentProject: {
-        name: "Medical Senior Care Application",
-        technologies: ["React", "Node.js", "MongoDB"],
-        goal: "Improving healthcare accessibility 🏥"
-    },
-    expertise: {
-        languages: ["JavaScript", "Python", "HTML5", "CSS3"],
-        frameworks: ["React", "Flask", "Bootstrap"],
-        tools: ["Git", "Postman", "VS Code"],
-        design: ["UI/UX", "Responsive Design", "Photoshop"]
-    },
-    passions: [
-        "Building elegant user interfaces 🎨",
-        "Solving complex problems 🧩",
-        "Game Development with Unreal Engine 🎮",
-        "Continuous learning and growth 📚"
-    ],
-    funFacts: [
-        "Coffee-powered coder ☕",
-        "Game development enthusiast 🎮",
-        "Tech art lover 🎨"
-    ]
-};
-
-// Currently working on...
-const currentFocus = {
-    project: "Revolutionizing senior healthcare through technology",
-    learning: ["Advanced React Patterns", "System Architecture", "UX Research"],
-    goals: ["Create intuitive healthcare interfaces", "Optimize user experiences", "Master full-stack development"]
+    currentProject: "Medical Senior Care Application 🏥",
+    learningPath: "Full Stack Development (Frontend Focus) 📚",
+    expertise: ["React", "JavaScript", "Python"],
+    passions: ["Frontend Development", "UI/UX Design", "Game Development"],
+    funFact: "I turn coffee into code ☕"
 };
 ```
 
@@ -132,16 +79,6 @@ const currentFocus = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="100">
-</div>
 
-![Snake animation](https://github.com/leivi521/leivi521/blob/output/github-contribution-grid-snake-dark.svg)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/>
-</div>
+
