@@ -81,27 +81,6 @@ const leivi = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216656923-f5f7843d-69d8-4ddd-83bb-b31d6daba030.gif" width="30"> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leivi521&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="leivi521" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=leivi521&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="leivi521" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leivi521&theme=radical&hide_border=true&background=0D1117" alt="leivi521" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216656934-0dd55b98-a77e-4d26-8865-9147906e0f99.gif" width="30"> GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leivi521&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100">
